@@ -4,11 +4,11 @@ import time
 import os
 
 # 🎬 Your Google Drive video ID
-drive_id = "YOUR DRIVE ID"
+drive_id = "drive_id = "11ehBjsk5gGXc-UUS3qHGRl36ukrXNJvS"
 local_file = "video.mp4"
 
 # 🔑 Your YouTube stream key (hardcoded as requested)
-stream_key = "PASTE YOUR STREAM KEY HERE "
+stream_key = "cec7-xy4y-9y7e-xk7t-4qxa"
 stream_url = f"rtmp://a.rtmp.youtube.com/live2/{stream_key}"
 
 def download_video():
